@@ -44,6 +44,3 @@ Game idea #2 Assignment 1 part b - our main game
 אביתר אהרון
 כפיר נזרי
 
-אביתר אהרון
-
-כפיר נזרי
