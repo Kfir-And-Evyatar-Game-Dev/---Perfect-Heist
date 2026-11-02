@@ -231,4 +231,23 @@
 | **Couch Co-Op Fest של Steam** | נגיש את המשחק לפסטיבל של Steam למשחקים ששני שחקנים משחקים על אותו מחשב. הפסטיבל הבא: 8–15 בפברואר 2027 | פסטיבל ייעודי בדיוק לסוג המשחק שלנו ([GamingOnLinux](https://gamingonlinux.com/2026/07/valve-announced-the-themed-sale-events-for-the-first-half-of-2027)) |
 | **רשתות חברתיות** | סרטוני פרסום קצרים בטיקטוק וברילס, שמראים זוג מתכנן שוד יחד, עם קישור לעמוד המשחק ב־Steam | הקישור מוביל את הצופים ישירות לעמוד המשחק ולרשימת המשאלות |
 
+---
+
+## 9. ניתוח סיכונים והזדמנויות
+
+### סיכונים
+| סיכון | איך נתמודד |
+|---|---|
+| **נישה יקרה לייצור:** Mimimi, שפיתחו את Shadow Tactics, נסגרו כי עלויות הייצור גדלו מהר יותר מההכנסות בז׳אנר ([TechRaptor](https://techraptor.net/gaming/news/mimimi-games-shutting-down)) | היקף קטן ומוגדר: 5 דמויות, 3 מקומות שוד ושלבים קצרים |
+| **משחק זוגי רק על אותו מחשב:** חברים שגרים רחוק לא יכולים לשחק יחד | נתמוך ב־Steam Remote Play Together, שמאפשר לשחק משחק מקומי גם מרחוק, כשרק אחד מחזיק במשחק ([VGC](https://videogameschronicle.com/news/steam-users-can-now-play-local-multiplayer-games-online)) |
+| **ממשק תכנון מסורבל:** השחקנים של No Plan B התלוננו על ממשק לא נוח ועל באגים ([Vaporlens](https://vaporlens.app/app/1269020/no_plan_b/stats/details)) | נבדוק את ממשק ציר הזמן עם שחקנים כבר באב־טיפוס, לפני שנבנה את שאר המשחק |
+| **שוק רווי:** כ־19,000 משחקים יצאו ב־Steam ב־2025, וההכנסה החציונית של משחק חדש הייתה כ־249 דולר ([GamingOnLinux](https://www.gamingonlinux.com/2025/12/over-19000-games-have-released-on-steam-in-2025-with-nearly-half-seeing-fewer-than-10-reviews/page=1/), [Game-Developers.org](https://game-developers.org/steam-paradox-2025-revenue-volume)) | נאסוף רשימות משאלות מוקדם, ונשתתף ב־Steam Next Fest וב־Couch Co-Op Fest |
+
+### הזדמנויות
+| הזדמנות | איך ננצל |
+|---|---|
+| **Co-op בצמיחה:** משחקי Co-op הכניסו כ־8.2 מיליארד דולר ב־Steam ב־2025, צמיחה של 9% ושיא של כל הזמנים ([Notebookcheck](https://www.notebookcheck.net/Games-with-co-op-modes-generated-8-2-billion-in-gross-revenue-on-Steam-in-2025.1218225.0.html)) | נבליט את המשחק הזוגי כמאפיין המרכזי בעמוד Steam ובסרטונים |
+| **אין מתחרה עם תכנון משותף:** No Plan B, Crookz, The Masterplan ו־Shadow Tactics הם לשחקן יחיד בלבד | נמצב את המשחק כ"משחק השוד הראשון שמתכננים בזוג" |
+| **זוגות שמשחקים יחד:** 44% מהזוגות בגילאי 18–45 משחקים יחד לפעמים או באופן קבוע ([PocketGamer](https://www.pocketgamer.com/features/logitech-g-gaming-couples-study)) | נכוון את השיווק ל"ערב משחק זוגי", עם שוד שבועי חדש שנותן סיבה לחזור |
+
 </div>
