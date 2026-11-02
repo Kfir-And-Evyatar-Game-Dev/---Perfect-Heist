@@ -250,4 +250,34 @@
 | **אין מתחרה עם תכנון משותף:** No Plan B, Crookz, The Masterplan ו־Shadow Tactics הם לשחקן יחיד בלבד | נמצב את המשחק כ"משחק השוד הראשון שמתכננים בזוג" |
 | **זוגות שמשחקים יחד:** 44% מהזוגות בגילאי 18–45 משחקים יחד לפעמים או באופן קבוע ([PocketGamer](https://www.pocketgamer.com/features/logitech-g-gaming-couples-study)) | נכוון את השיווק ל"ערב משחק זוגי", עם שוד שבועי חדש שנותן סיבה לחזור |
 
+---
+
+## 10. סיכום והמלצות
+
+### מסקנה: כדאי לפתח, והוא הרעיון הכי מבטיח בצוות
+- **השוק צומח:** משחקי Co-op הכניסו כ־8.2 מיליארד דולר ב־Steam ב־2025, צמיחה של 9% ([Notebookcheck](https://www.notebookcheck.net/Games-with-co-op-modes-generated-8-2-billion-in-gross-revenue-on-Steam-in-2025.1218225.0.html)), ומשחק Co-op טיפוסי מכר פי 8 ממשחק שאינו Co-op ([Game Industry Library](https://gameindustrylibrary.com/documents/rise-of-the-co-op-games-2024)).
+- **אין מתחרה ישיר:** כל משחקי התכנון והשוד שסקרנו הם לשחקן יחיד, ומשחק השוד בשיתוף פעולה המצליח (Monaco) מכר יותר ממיליון עותקים ([Game Developer](https://gamedeveloper.com/business/stealth-multiplayer-game-i-monaco-i-sells-1-million)), אבל הוא בזמן אמת ובלי תכנון.
+- **יש קהל:** 44% מהזוגות בגילאי 18–45 משחקים יחד ([PocketGamer](https://www.pocketgamer.com/features/logitech-g-gaming-couples-study)).
+- **אבל:** נישת משחקי התכנון יקרה לייצור, וסטודיו Mimimi נסגר בגלל זה ([TechRaptor](https://techraptor.net/gaming/news/mimimi-games-shutting-down)). לכן חשוב לשמור על היקף קטן.
+
+### השוואה בין רעיונות הצוות
+| | **השוד המושלם** | **כיבוש המפה** | **רעש שמציל** |
+|---|---|---|---|
+| **ז׳אנר** | תכנון שוד בשיתוף פעולה | אסטרטגיה בזמן אמת | התגנבות ומתח בחושך |
+| **מגמת השוק** | Co-op ב־Steam: 8.2 מיליארד דולר, +9% ([Notebookcheck](https://www.notebookcheck.net/Games-with-co-op-modes-generated-8-2-billion-in-gross-revenue-on-Steam-in-2025.1218225.0.html)) | זמן משחק באסטרטגיה: +24% ([GameDev Reports](https://gamedevreports.substack.com/p/sensor-tower-the-premium-pcconsole)) | אין נתון ייעודי לז׳אנר |
+| **מתחרים** | אין מתחרה עם תכנון זוגי | מתחרים גדולים ומורכבים | המנגנון כבר קיים (Dark Echo, Perception) |
+| **קושי פיתוח** | בינוני: ממשק ציר זמן | **גבוה**: יריב ממוחשב חכם | **נמוך**: גרפיקה פשוטה |
+| **הסיכון המרכזי** | נישה קטנה | עניין שדועך מהר | קשה לבלוט |
+| **על הנייר** | 🥇 **הכי מבטיח** | 🥈 | 🥉 |
+
+### פערי מידע
+1. **האם התכנון המשותף כיפי:** עוד לא בדקנו אם שני שחקנים נהנים לתכנן יחד, או שאחד מהם "משתלט" על התכנון.
+2. **Remote Play Together:** לא מצאנו נתון רשמי על כמה שחקנים משתמשים בו בפועל.
+3. **נתוני מכירות מדויקים:** חלק מהנתונים על המתחרים הם הערכות של אתרי צד שלישי.
+
+### המלצות להמשך
+1. **לבנות אב־טיפוס** של שוד אחד, עם שתי דמויות וציר זמן בסיסי.
+2. **לבדוק עם 5 זוגות** אם ממשק ציר הזמן נוח, ואם שני השחקנים באמת משתתפים בתכנון.
+3. **לפתוח עמוד Steam מוקדם** ולמדוד כמה רשימות משאלות הוא צובר, לפני שמשקיעים בפיתוח מלא.
+
 </div>
